@@ -4,6 +4,12 @@
 
 使用github actions 部署 GitHub pages
 
+
+::: tip
+如果你的github不支持 actions [点击](https://github.com/features/actions) 这个去注册一下就行了
+:::
+
+
 [GitHub Actions 入门教程](http://www.ruanyifeng.com/blog/2019/09/getting-started-with-github-actions.html)
 
 ```
