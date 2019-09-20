@@ -6,7 +6,7 @@
 
 
 ::: tip
-如果你的github不支持 actions [点击](https://github.com/features/actions) 这个去注册一下就行了
+如果你的github不支持 actions [点击](https://github.com/features/actions) 去注册一下就行了
 :::
 
 
