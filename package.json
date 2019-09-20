@@ -1,0 +1,29 @@
+{
+  "name": "vuepress-github-actions",
+  "version": "1.0.0",
+  "description": "使用github actions 部署 github pages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "vuepress dev",
+    "build": "vuepress build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/im/vuepress-github-actions.git"
+  },
+  "keywords": [
+    "github pages",
+    "gh-pages",
+    "github actions"
+  ],
+  "author": "tangxiaomi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/im/vuepress-github-actions/issues"
+  },
+  "homepage": "https://github.com/im/vuepress-github-actions#readme",
+  "devDependencies": {
+    "vuepress": "^1.1.0"
+  }
+}
